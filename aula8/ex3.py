@@ -12,7 +12,7 @@ o - 4
 u - 5
 '''
 
-frase = input('Bem vindo ao seu decodificado e codificador de frases!\n insira uma frase: \n')
+frase = input('\tBem vindo ao seu decodificado e codificador de frases!\nInsira uma frase: \n')
 frase_codificada = '' 
 frase_decodificada = '' 
 for caractere in frase.lower():
